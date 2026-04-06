@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pialtes-planning/static/css/main.03381a3a.css",
-    "main.js": "/pialtes-planning/static/js/main.54dda146.js",
+    "main.js": "/pialtes-planning/static/js/main.4c457f7e.js",
     "static/js/453.b9367403.chunk.js": "/pialtes-planning/static/js/453.b9367403.chunk.js",
     "index.html": "/pialtes-planning/index.html",
     "main.03381a3a.css.map": "/pialtes-planning/static/css/main.03381a3a.css.map",
-    "main.54dda146.js.map": "/pialtes-planning/static/js/main.54dda146.js.map",
+    "main.4c457f7e.js.map": "/pialtes-planning/static/js/main.4c457f7e.js.map",
     "453.b9367403.chunk.js.map": "/pialtes-planning/static/js/453.b9367403.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03381a3a.css",
-    "static/js/main.54dda146.js"
+    "static/js/main.4c457f7e.js"
   ]
 }
