@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pialtes-planning/static/css/main.e6c13ad2.css",
+    "main.js": "/pialtes-planning/static/js/main.ac8f6952.js",
+    "static/js/453.b9367403.chunk.js": "/pialtes-planning/static/js/453.b9367403.chunk.js",
+    "index.html": "/pialtes-planning/index.html",
+    "main.e6c13ad2.css.map": "/pialtes-planning/static/css/main.e6c13ad2.css.map",
+    "main.ac8f6952.js.map": "/pialtes-planning/static/js/main.ac8f6952.js.map",
+    "453.b9367403.chunk.js.map": "/pialtes-planning/static/js/453.b9367403.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac8f6952.js"
+  ]
+}
